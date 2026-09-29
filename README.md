@@ -123,6 +123,14 @@ FIFA calendar; each one's note says what Série B did. `sync.py` also flags any
 
 ## Things worth knowing
 
+- **Only last week onwards is shown.** Matches before Monday of last week — in the
+  viewer's own time zone, recalculated every time the page opens — are hidden, along
+  with breaks that have ended and reschedules of hidden matches. To show more, raise
+  `history_weeks` in `config.json` (2 = from Monday two weeks ago) and run
+  `python3 build.py`. The whole season is still in `data/fixtures.json`: a match
+  missing from the page before that date is hidden, not lost.
+- **Team search ignores accents and case** — "gremio" finds Grêmio, "atletico" finds
+  Atlético.
 - **Times follow the device.** Kick-offs are stored in UTC and shown in the
   viewer's local time — a 21:30 Brasília game reads 01:30 in Lisbon.
 - **`TBD` instead of a time** means CBF has not fixed the kick-off yet; the date is

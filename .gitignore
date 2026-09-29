@@ -7,3 +7,6 @@ site/
 __pycache__/
 *.pyc
 research/
+node_modules/
+package-lock.json
+package.json

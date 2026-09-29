@@ -4,6 +4,8 @@
   "source": "ESPN public soccer feed (site.api.espn.com)",
   "window_start": "2026-01-01",
   "window_end": "2027-12-31",
+  "history_weeks": 1,
+  "history_weeks_note": "How far back the page shows matches: everything from Monday of this many weeks ago (viewer's local time). 1 = last week onwards. data/fixtures.json keeps the whole season either way.",
   "competitions_note": "Brazilian seasons run on the calendar year. `core: true` competitions (Serie A and B) are pulled in full, and every club that appears in them is 'followed', by ESPN team id. `followed_only: true` competitions keep only fixtures with a followed club in them -- so the Copa do Brasil loses its fourth-division ties and the Libertadores keeps Brazil's clubs, not the whole continent. `keep_tbd` also keeps a knockout tie whose sides are not known yet (a final). ESPN publishes the four big state championships only; the others (Paranaense, Baiano, Pernambucano, Cearense...) have no feed.",
   "competitions": [
     {
