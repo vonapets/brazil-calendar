@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-29T11:09:35Z",
+ "generated_at": "2026-09-29T11:20:03Z",
  "source": "ESPN",
  "season": 2026,
  "season_label": "2026\u20132027",
@@ -7,7 +7,6 @@
   {
    "key": "bra1",
    "name": "Brasileir\u00e3o S\u00e9rie A",
-   "short": "S\u00c9RIE A",
    "group": "Brasileir\u00e3o",
    "tier": "league",
    "color": "#2fb04a",
@@ -19,7 +18,6 @@
   {
    "key": "bra2",
    "name": "Brasileir\u00e3o S\u00e9rie B",
-   "short": "S\u00c9RIE B",
    "group": "Brasileir\u00e3o",
    "tier": "league",
    "color": "#189cc6",
@@ -32,7 +30,6 @@
   {
    "key": "cdb",
    "name": "Copa do Brasil",
-   "short": "COPA BR",
    "group": "National cups",
    "tier": "cup",
    "color": "#0d8b8b",
@@ -45,7 +42,6 @@
   {
    "key": "scb",
    "name": "Supercopa do Brasil",
-   "short": "SUPERCOPA",
    "group": "National cups",
    "tier": "cup",
    "color": "#4a90d9",
@@ -57,8 +53,7 @@
   },
   {
    "key": "lib",
-   "name": "CONMEBOL Libertadores",
-   "short": "LIBERTA",
+   "name": "Copa Libertadores",
    "group": "South America",
    "tier": "euro",
    "color": "#8244c9",
@@ -70,8 +65,7 @@
   },
   {
    "key": "sud",
-   "name": "CONMEBOL Sudamericana",
-   "short": "SUDAM",
+   "name": "Copa Sudamericana",
    "group": "South America",
    "tier": "euro",
    "color": "#d92d3e",
@@ -83,8 +77,7 @@
   },
   {
    "key": "rec",
-   "name": "CONMEBOL Recopa",
-   "short": "RECOPA",
+   "name": "Recopa Sudamericana",
    "group": "South America",
    "tier": "euro",
    "color": "#e0518a",
@@ -96,7 +89,6 @@
   {
    "key": "fic",
    "name": "FIFA Intercontinental Cup",
-   "short": "INTERCONT",
    "group": "South America",
    "tier": "euro",
    "color": "#6f5ae0",
@@ -108,7 +100,6 @@
   {
    "key": "pau",
    "name": "Campeonato Paulista",
-   "short": "PAULISTA",
    "group": "State championships",
    "tier": "cup",
    "color": "#2b3fb8",
@@ -120,7 +111,6 @@
   {
    "key": "car",
    "name": "Campeonato Carioca",
-   "short": "CARIOCA",
    "group": "State championships",
    "tier": "cup",
    "color": "#a63324",
@@ -132,7 +122,6 @@
   {
    "key": "min",
    "name": "Campeonato Mineiro",
-   "short": "MINEIRO",
    "group": "State championships",
    "tier": "cup",
    "color": "#757c1b",
@@ -144,7 +133,6 @@
   {
    "key": "gau",
    "name": "Campeonato Ga\u00facho",
-   "short": "GA\u00daCHO",
    "group": "State championships",
    "tier": "cup",
    "color": "#7c2d87",
@@ -23339,7 +23327,7 @@
  "breaks": [
   {
    "label": "S\u00e9rie A pause \u2014 state championship finals",
-   "short": "STATE FINALS",
+   "short": "State championship finals",
    "kind": "domestic",
    "start": "2026-02-27",
    "end": "2026-03-10",
@@ -23348,7 +23336,7 @@
   },
   {
    "label": "International break \u2014 March",
-   "short": "INT'L",
+   "short": "International break",
    "kind": "international",
    "start": "2026-03-23",
    "end": "2026-03-28",
@@ -23357,7 +23345,7 @@
   },
   {
    "label": "World Cup pause \u2014 S\u00e9rie A",
-   "short": "WORLD CUP",
+   "short": "World Cup",
    "kind": "tournament",
    "start": "2026-06-01",
    "end": "2026-07-15",
@@ -23366,7 +23354,7 @@
   },
   {
    "label": "International break \u2014 Sep/Oct (S\u00e9rie A)",
-   "short": "INT'L",
+   "short": "International break",
    "kind": "international",
    "start": "2026-09-21",
    "end": "2026-10-01",
@@ -23375,7 +23363,7 @@
   },
   {
    "label": "International break \u2014 November",
-   "short": "INT'L",
+   "short": "International break",
    "kind": "international",
    "start": "2026-11-07",
    "end": "2026-11-17",
