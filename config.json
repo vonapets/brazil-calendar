@@ -1,0 +1,467 @@
+{
+  "season": 2026,
+  "season_label": "2026–2027",
+  "source": "ESPN public soccer feed (site.api.espn.com)",
+  "window_start": "2026-01-01",
+  "window_end": "2027-12-31",
+  "competitions_note": "Brazilian seasons run on the calendar year. `core: true` competitions (Serie A and B) are pulled in full, and every club that appears in them is 'followed', by ESPN team id. `followed_only: true` competitions keep only fixtures with a followed club in them -- so the Copa do Brasil loses its fourth-division ties and the Libertadores keeps Brazil's clubs, not the whole continent. `keep_tbd` also keeps a knockout tie whose sides are not known yet (a final). ESPN publishes the four big state championships only; the others (Paranaense, Baiano, Pernambucano, Cearense...) have no feed.",
+  "competitions": [
+    {
+      "key": "bra1",
+      "name": "Brasileirão Série A",
+      "short": "SÉRIE A",
+      "group": "Brasileirão",
+      "tier": "league",
+      "color": "#2fb04a",
+      "core": true,
+      "slugs": [
+        "bra.1"
+      ]
+    },
+    {
+      "key": "bra2",
+      "name": "Brasileirão Série B",
+      "short": "SÉRIE B",
+      "group": "Brasileirão",
+      "tier": "league",
+      "color": "#189cc6",
+      "core": true,
+      "playoff_label": "Promotion play-off",
+      "slugs": [
+        "bra.2"
+      ]
+    },
+    {
+      "key": "cdb",
+      "name": "Copa do Brasil",
+      "short": "COPA BR",
+      "group": "National cups",
+      "tier": "cup",
+      "color": "#0d8b8b",
+      "followed_only": true,
+      "keep_tbd": true,
+      "slugs": [
+        "bra.copa_do_brazil"
+      ]
+    },
+    {
+      "key": "scb",
+      "name": "Supercopa do Brasil",
+      "short": "SUPERCOPA",
+      "group": "National cups",
+      "tier": "cup",
+      "color": "#4a90d9",
+      "followed_only": true,
+      "keep_tbd": true,
+      "slugs": [
+        "bra.supercopa_do_brazil"
+      ]
+    },
+    {
+      "key": "lib",
+      "name": "CONMEBOL Libertadores",
+      "short": "LIBERTA",
+      "group": "South America",
+      "tier": "euro",
+      "color": "#8244c9",
+      "followed_only": true,
+      "keep_tbd": true,
+      "slugs": [
+        "conmebol.libertadores"
+      ]
+    },
+    {
+      "key": "sud",
+      "name": "CONMEBOL Sudamericana",
+      "short": "SUDAM",
+      "group": "South America",
+      "tier": "euro",
+      "color": "#d92d3e",
+      "followed_only": true,
+      "keep_tbd": true,
+      "slugs": [
+        "conmebol.sudamericana"
+      ]
+    },
+    {
+      "key": "rec",
+      "name": "CONMEBOL Recopa",
+      "short": "RECOPA",
+      "group": "South America",
+      "tier": "euro",
+      "color": "#e0518a",
+      "followed_only": true,
+      "slugs": [
+        "conmebol.recopa"
+      ]
+    },
+    {
+      "key": "fic",
+      "name": "FIFA Intercontinental Cup",
+      "short": "INTERCONT",
+      "group": "South America",
+      "tier": "euro",
+      "color": "#6f5ae0",
+      "followed_only": true,
+      "slugs": [
+        "fifa.intercontinental_cup"
+      ]
+    },
+    {
+      "key": "pau",
+      "name": "Campeonato Paulista",
+      "short": "PAULISTA",
+      "group": "State championships",
+      "tier": "cup",
+      "color": "#2b3fb8",
+      "followed_only": true,
+      "slugs": [
+        "bra.camp.paulista"
+      ]
+    },
+    {
+      "key": "car",
+      "name": "Campeonato Carioca",
+      "short": "CARIOCA",
+      "group": "State championships",
+      "tier": "cup",
+      "color": "#a63324",
+      "followed_only": true,
+      "slugs": [
+        "bra.camp.carioca"
+      ]
+    },
+    {
+      "key": "min",
+      "name": "Campeonato Mineiro",
+      "short": "MINEIRO",
+      "group": "State championships",
+      "tier": "cup",
+      "color": "#757c1b",
+      "followed_only": true,
+      "slugs": [
+        "bra.camp.mineiro"
+      ]
+    },
+    {
+      "key": "gau",
+      "name": "Campeonato Gaúcho",
+      "short": "GAÚCHO",
+      "group": "State championships",
+      "tier": "cup",
+      "color": "#7c2d87",
+      "followed_only": true,
+      "slugs": [
+        "bra.camp.gaucho"
+      ]
+    }
+  ],
+  "top_teams": {
+    "_note": "Clubs whose matches get highlighted. Every Serie A/B club is on the chart regardless -- this list only decides what is bold, what is ringed, and what reaches 'Matches that matter'. tier 1 = the traditional 'doze grandes' (big twelve); tier 2 = the next rank of national-title winners and regional powers. A big match ('Matches that matter', ringed in the grid) needs both clubs listed AND heat 6: two grandes, a classico, or a knockout tie -- 'both listed' alone would flag nearly every Serie A game. 'aka' holds alternative spellings. Edit and re-run `python3 build.py` -- no re-sync needed.",
+    "clubs": [
+      {
+        "name": "Flamengo",
+        "tier": 1,
+        "group": "Rio de Janeiro",
+        "aka": []
+      },
+      {
+        "name": "Fluminense",
+        "tier": 1,
+        "group": "Rio de Janeiro",
+        "aka": []
+      },
+      {
+        "name": "Vasco da Gama",
+        "tier": 1,
+        "group": "Rio de Janeiro",
+        "aka": [
+          "Vasco"
+        ]
+      },
+      {
+        "name": "Botafogo",
+        "tier": 1,
+        "group": "Rio de Janeiro",
+        "aka": []
+      },
+      {
+        "name": "Corinthians",
+        "tier": 1,
+        "group": "São Paulo",
+        "aka": []
+      },
+      {
+        "name": "Palmeiras",
+        "tier": 1,
+        "group": "São Paulo",
+        "aka": []
+      },
+      {
+        "name": "São Paulo",
+        "tier": 1,
+        "group": "São Paulo",
+        "aka": []
+      },
+      {
+        "name": "Santos",
+        "tier": 1,
+        "group": "São Paulo",
+        "aka": []
+      },
+      {
+        "name": "Grêmio",
+        "tier": 1,
+        "group": "Rio Grande do Sul",
+        "aka": []
+      },
+      {
+        "name": "Internacional",
+        "tier": 1,
+        "group": "Rio Grande do Sul",
+        "aka": []
+      },
+      {
+        "name": "Atlético-MG",
+        "tier": 1,
+        "group": "Minas Gerais",
+        "aka": [
+          "Atletico Mineiro"
+        ]
+      },
+      {
+        "name": "Cruzeiro",
+        "tier": 1,
+        "group": "Minas Gerais",
+        "aka": []
+      },
+      {
+        "name": "Athletico-PR",
+        "tier": 2,
+        "group": "Paraná",
+        "aka": [
+          "Athletico Paranaense"
+        ]
+      },
+      {
+        "name": "Coritiba",
+        "tier": 2,
+        "group": "Paraná",
+        "aka": []
+      },
+      {
+        "name": "Bahia",
+        "tier": 2,
+        "group": "Northeast",
+        "aka": []
+      },
+      {
+        "name": "Vitória",
+        "tier": 2,
+        "group": "Northeast",
+        "aka": []
+      },
+      {
+        "name": "Sport",
+        "tier": 2,
+        "group": "Northeast",
+        "aka": [
+          "Sport Recife"
+        ]
+      },
+      {
+        "name": "Fortaleza",
+        "tier": 2,
+        "group": "Northeast",
+        "aka": []
+      },
+      {
+        "name": "Ceará",
+        "tier": 2,
+        "group": "Northeast",
+        "aka": []
+      },
+      {
+        "name": "Náutico",
+        "tier": 2,
+        "group": "Northeast",
+        "aka": []
+      },
+      {
+        "name": "Goiás",
+        "tier": 2,
+        "group": "Centre-West",
+        "aka": []
+      },
+      {
+        "name": "Remo",
+        "tier": 2,
+        "group": "North",
+        "aka": []
+      },
+      {
+        "name": "Red Bull Bragantino",
+        "tier": 2,
+        "group": "São Paulo",
+        "aka": [
+          "Bragantino"
+        ]
+      }
+    ],
+    "rivalries": [
+      {
+        "a": "Flamengo",
+        "b": "Fluminense",
+        "label": "Fla-Flu"
+      },
+      {
+        "a": "Flamengo",
+        "b": "Vasco da Gama",
+        "label": "Clássico dos Milhões"
+      },
+      {
+        "a": "Flamengo",
+        "b": "Botafogo",
+        "label": "Clássico da Rivalidade"
+      },
+      {
+        "a": "Fluminense",
+        "b": "Vasco da Gama",
+        "label": "Clássico dos Gigantes"
+      },
+      {
+        "a": "Botafogo",
+        "b": "Fluminense",
+        "label": "Clássico Vovô"
+      },
+      {
+        "a": "Botafogo",
+        "b": "Vasco da Gama",
+        "label": "Clássico da Amizade"
+      },
+      {
+        "a": "Corinthians",
+        "b": "Palmeiras",
+        "label": "Derby Paulista"
+      },
+      {
+        "a": "Palmeiras",
+        "b": "São Paulo",
+        "label": "Choque-Rei"
+      },
+      {
+        "a": "Corinthians",
+        "b": "São Paulo",
+        "label": "Majestoso"
+      },
+      {
+        "a": "Santos",
+        "b": "São Paulo",
+        "label": "San-São"
+      },
+      {
+        "a": "Santos",
+        "b": "Corinthians",
+        "label": "Clássico Alvinegro"
+      },
+      {
+        "a": "Santos",
+        "b": "Palmeiras",
+        "label": "Clássico da Saudade"
+      },
+      {
+        "a": "Grêmio",
+        "b": "Internacional",
+        "label": "Grenal"
+      },
+      {
+        "a": "Atlético-MG",
+        "b": "Cruzeiro",
+        "label": "Clássico Mineiro"
+      },
+      {
+        "a": "Bahia",
+        "b": "Vitória",
+        "label": "Ba-Vi"
+      },
+      {
+        "a": "Athletico-PR",
+        "b": "Coritiba",
+        "label": "Atletiba"
+      },
+      {
+        "a": "Fortaleza",
+        "b": "Ceará",
+        "label": "Clássico-Rei"
+      },
+      {
+        "a": "Sport",
+        "b": "Náutico",
+        "label": "Clássico dos Clássicos"
+      }
+    ],
+    "stage_bonus": {
+      "final": 3,
+      "semi": 2,
+      "quarter": 1,
+      "round of 16": 1
+    }
+  },
+  "breaks_note": "2026 pauses read off the published fixture list (every Serie A and B match date), cross-checked against the FIFA 2025-30 international calendar. Serie A and Serie B do not stop together -- Serie B played straight through the World Cup and the Sep/Oct window -- so each break says which division it applies to. 2027 breaks are not listed yet: CBF has not published the 2027 tables; add them here when it does.",
+  "breaks": [
+    {
+      "label": "Série A pause — state championship finals",
+      "short": "STATE FINALS",
+      "kind": "domestic",
+      "start": "2026-02-27",
+      "end": "2026-03-10",
+      "source": "confirmed",
+      "notes": "Serie A stopped after 26 Feb for the knockout stages of the state championships -- Paulista, Carioca, Mineiro and Gaucho finals were all on 8 Mar. Back 11 Mar. Serie B had not started (21 Mar)."
+    },
+    {
+      "label": "International break — March",
+      "short": "INT'L",
+      "kind": "international",
+      "start": "2026-03-23",
+      "end": "2026-03-28",
+      "source": "confirmed",
+      "notes": "FIFA window 23-31 Mar. Serie A was off 23-28 Mar and played again on 29 Mar, inside the window; Serie B was off until 31 Mar."
+    },
+    {
+      "label": "World Cup pause — Série A",
+      "short": "WORLD CUP",
+      "kind": "tournament",
+      "start": "2026-06-01",
+      "end": "2026-07-15",
+      "source": "confirmed",
+      "notes": "World Cup 2026 (USA, Canada, Mexico), 11 Jun-19 Jul. Serie A stopped after 31 May and resumed 16 Jul, before the final. Serie B played straight through June and July."
+    },
+    {
+      "label": "International break — Sep/Oct (Série A)",
+      "short": "INT'L",
+      "kind": "international",
+      "start": "2026-09-21",
+      "end": "2026-10-01",
+      "source": "confirmed",
+      "notes": "FIFA's merged 16-day window runs 21 Sep-6 Oct. Serie A is off 21 Sep-1 Oct and resumes 2 Oct, while the window is still open. Serie B plays straight through."
+    },
+    {
+      "label": "International break — November",
+      "short": "INT'L",
+      "kind": "international",
+      "start": "2026-11-07",
+      "end": "2026-11-17",
+      "source": "confirmed",
+      "notes": "FIFA window 9-17 Nov. Serie A is off 7-17 Nov and resumes 18 Nov. Serie B is off 7-13 Nov and plays its final regular round on 14 Nov; its promotion play-offs follow on 21 and 28 Nov."
+    }
+  ],
+  "gap_detection": {
+    "enabled": true,
+    "min_days": 10,
+    "watch": [
+      "bra1"
+    ],
+    "label": "No Série A football",
+    "short": "NO SÉRIE A"
+  }
+}
