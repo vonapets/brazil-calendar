@@ -129,6 +129,14 @@ match winner 75%; totals 14%; spread 3%; 1st-half totals 2%; 1st-half result 1%;
 | 4 | 2026-04-28 CA San Lorenzo de Almagro vs. Santos FC — 790k | 2026-09-15 Sao Paulo vs Boca Juniors — $854k · 2.0M c |
 | 5 | 2026-08-26 CA River Plate vs. Independiente Santa Fe — 789k | 2026-07-23 Boca Juniors vs O´Higgins — $853k · 2.2M c |
 
+### The calendar's other competitions (checked 29 Sep 2026)
+
+| Competition | Polymarket | Kalshi |
+|---|---|---|
+| Supercopa do Brasil (Flamengo v Corinthians, 1 Feb 2026) | **Never listed.** Public search returns only Spain's Supercopa | **Never listed.** No series; no event on that date |
+| Recopa Sudamericana (Lanús v Flamengo, 20 and 27 Feb 2026) | **Never listed** | **Never listed.** No series |
+| FIFA Intercontinental Cup | **Once:** the Dec 2025 final PSG v Flamengo. 90-minute result 268k vol + winner 53k vol. The Derby of the Americas (v Cruz Azul) and Challenger Cup (v Pyramids) not found | **Once:** the same final. `KXINTERCONCUPGAME` 3 markets, 372k contracts; `KXINTERCUPADVANCE` 2 markets, 58k contracts. The 2026 edition is not listed yet |
+
 ## Caveats
 
 - **The units differ, as the note at the top explains.** Polymarket vol is $1-notional shares. Kalshi contracts are the same unit, but inflated by losers dumped at $0.001. Kalshi premium $ is what was actually paid. Neither pairing is clean, so this doc never adds the two venues together.
