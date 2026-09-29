@@ -137,6 +137,14 @@ match winner 75%; totals 14%; spread 3%; 1st-half totals 2%; 1st-half result 1%;
 | Recopa Sudamericana (Lanús v Flamengo, 20 and 27 Feb 2026) | **Never listed** | **Never listed.** No series |
 | FIFA Intercontinental Cup | **Once:** the Dec 2025 final PSG v Flamengo. 90-minute result 268k vol + winner 53k vol. The Derby of the Americas (v Cruz Azul) and Challenger Cup (v Pyramids) not found | **Once:** the same final. `KXINTERCONCUPGAME` 3 markets, 372k contracts; `KXINTERCUPADVANCE` 2 markets, 58k contracts. The 2026 edition is not listed yet |
 
+### Jiu-jitsu / grappling (checked 29 Sep 2026)
+
+- **Kalshi: never listed.** The full series list (14,468 series) has nothing matching jiu-jitsu, BJJ, IBJJF, ADCC or grappling.
+- **Polymarket: IBJJF never listed**, and neither are ADCC, the Craig Jones Invitational or the CBJJ Brasileiro. Public search found only two "Grappling:" events, both Hype Fighting Championship matches with UFC fighter Arman Tsarukyan:
+  - v Shara Magomedov, Armenia, 30 Dec 2025: 247,624 vol.
+  - v Muhammad Mokaev, Farmasi Arena, Rio de Janeiro, 11 Mar 2026: listed, **0 volume**. Not checked whether the match took place.
+- **Popularity: no survey figure found.** IBOPE Repucom releases, Datafolha and the Opinion Box survey don't measure jiu-jitsu. The nearest proxy is MMA: 30M fans (IBOPE Repucom, 2019); UFC followed by 29% (Opinion Box 2024).
+
 ## Caveats
 
 - **The units differ, as the note at the top explains.** Polymarket vol is $1-notional shares. Kalshi contracts are the same unit, but inflated by losers dumped at $0.001. Kalshi premium $ is what was actually paid. Neither pairing is clean, so this doc never adds the two venues together.
