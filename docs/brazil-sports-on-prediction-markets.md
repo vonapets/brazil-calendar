@@ -1,6 +1,6 @@
 # Brazil's popular sports on Polymarket and Kalshi
 
-*Research date: 29 Sep 2026. All market data pulled from the Polymarket Gamma API and the Kalshi trade API on 29 Sep 2026; popularity figures from the surveys cited. Raw pulls, scripts and `out/summary.json` are in `~/brazil-calendar/research/sports_markets/`.*
+*Research date: 29 Sep 2026. All market data pulled from the Polymarket Gamma API and the Kalshi trade API on 29 Sep 2026; popularity figures from the surveys cited. Raw pulls, scripts and `out/summary.json` are in `~/brazil-calendar/research/sports_markets/` on the machine that built this — local only, not committed (≈250 MB).*
 
 > **Units:** these volume figures aren't directly comparable, so read this first.
 > - **Polymarket "vol"** is Gamma `volume`, the sum of taker fill sizes in $1-notional shares. Polymarket shows it with a "$" sign, but it is not premium paid.
@@ -143,7 +143,7 @@ match winner 75%; totals 14%; spread 3%; 1st-half totals 2%; 1st-half result 1%;
 - **Event venues come from search snippets and the APIs, not source pages.** UFC Rio = the 11 Oct 2025 *UFC Fight Night: Oliveira vs. Gamrot* card, placed in Rio (Farmasi Arena) by the ufc.com result pages titled "UFC Rio" (search snippet only). The NFL Rio game is Ravens–Cowboys on 27 Sep 2026 at Maracanã, per a search snippet of NFL.com ("Ravens to face Cowboys in 2026 NFL Rio Game"). The APIs confirm a BAL–DAL game on that date. The NFL São Paulo game (Chiefs–Chargers, 5 Sep 2025) was identified from general knowledge plus the API fixture, not re-verified on a source page.
 - **Tennis tournament matching.** Polymarket titles name the tournament ("Rio Open: …"), but Kalshi titles don't. Kalshi Rio Open matches were found by matching both surnames within ±3 days of the Polymarket fixture, so Kalshi figures for Brazilian tournaments are a floor, and are given in contracts only.
 
-## Files
+## Files (local only — `research/` is not in the repo)
 
 - `research/sports_markets/pm_pull.py`, `pm_tags.py` and `pm_search.py` pull Polymarket (keyset paging by series and tag, plus public-search).
 - `research/sports_markets/kalshi_pull.py` runs `markets`, `hist`, `candles` and `hcandles` against Kalshi (live and historical tiers, daily candles).
