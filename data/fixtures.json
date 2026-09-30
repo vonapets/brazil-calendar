@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-30T09:57:00Z",
+ "generated_at": "2026-09-30T16:30:40Z",
  "source": "ESPN",
  "season": 2026,
  "season_label": "2026\u20132027",
@@ -21246,8 +21246,8 @@
   {
    "id": 401841282,
    "comp": "bra1",
-   "utc": "2026-10-24T23:00:00Z",
-   "ts": 1792882800,
+   "utc": "2026-10-25T00:00:00Z",
+   "ts": 1792886400,
    "status": "NS",
    "status_long": "Not started",
    "round": "",
@@ -23371,7 +23371,19 @@
    "notes": "FIFA window 9-17 Nov. Serie A is off 7-17 Nov and resumes 18 Nov. Serie B is off 7-13 Nov and plays its final regular round on 14 Nov; its promotion play-offs follow on 21 and 28 Nov."
   }
  ],
- "changes": [],
+ "changes": [
+  {
+   "detected": "2026-09-30",
+   "kind": "moved",
+   "id": 401841282,
+   "comp": "bra1",
+   "home": "Santos",
+   "away": "Bahia",
+   "from_utc": "2026-10-24T23:00:00Z",
+   "to_utc": "2026-10-25T00:00:00Z",
+   "round": ""
+  }
+ ],
  "counts": {
   "bra1": 383,
   "bra2": 384,
