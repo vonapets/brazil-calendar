@@ -1,5 +1,16 @@
 [
  {
+  "detected": "2026-10-06",
+  "kind": "moved",
+  "id": 401841262,
+  "comp": "bra1",
+  "home": "Vasco da Gama",
+  "away": "Remo",
+  "from_utc": "2026-10-10T20:00:00Z",
+  "to_utc": "2026-10-10T21:00:00Z",
+  "round": ""
+ },
+ {
   "detected": "2026-10-03",
   "kind": "status",
   "id": 401860437,
