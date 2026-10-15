@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-14T23:59:57Z",
+ "generated_at": "2026-10-15T08:32:41Z",
  "source": "ESPN",
  "season": 2026,
  "season_label": "2026\u20132027",
@@ -20388,20 +20388,20 @@
    "comp": "lib",
    "utc": "2026-10-15T00:30:00Z",
    "ts": 1792024200,
-   "status": "NS",
-   "status_long": "Not started",
+   "status": "FT",
+   "status_long": "Full time",
    "round": "Semifinals 1st Leg",
    "home": "Fluminense",
    "away": "Palmeiras",
    "hid": "3445",
    "aid": "2029",
    "venue": "Estadio do Maracana",
-   "gh": null,
-   "ga": null,
+   "gh": 1,
+   "ga": 2,
    "tbd": false,
    "qual": false,
    "disrupted": false,
-   "finished": false
+   "finished": true
   },
   {
    "id": 401912523,
