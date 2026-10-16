@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-15T23:44:29Z",
+ "generated_at": "2026-10-16T08:26:52Z",
  "source": "ESPN",
  "season": 2026,
  "season_label": "2026\u20132027",
@@ -20408,20 +20408,20 @@
    "comp": "lib",
    "utc": "2026-10-16T00:30:00Z",
    "ts": 1792110600,
-   "status": "NS",
-   "status_long": "Not started",
+   "status": "FT",
+   "status_long": "Full time",
    "round": "Semifinals 1st Leg",
    "home": "Estudiantes de La Plata",
    "away": "Flamengo",
    "hid": "8",
    "aid": "819",
    "venue": "Estadio Jorge Luis Hirschi",
-   "gh": null,
-   "ga": null,
+   "gh": 0,
+   "ga": 0,
    "tbd": false,
    "qual": false,
    "disrupted": false,
-   "finished": false
+   "finished": true
   },
   {
    "id": 401860398,
