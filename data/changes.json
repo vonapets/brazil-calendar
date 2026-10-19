@@ -1,5 +1,16 @@
 [
  {
+  "detected": "2026-10-19",
+  "kind": "moved",
+  "id": 401841294,
+  "comp": "bra1",
+  "home": "Coritiba",
+  "away": "Vit\u00f3ria",
+  "from_utc": "2026-10-29T22:30:00Z",
+  "to_utc": "2026-10-31T19:00:00Z",
+  "round": ""
+ },
+ {
   "detected": "2026-10-09",
   "kind": "moved",
   "id": 401860432,
