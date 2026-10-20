@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T20:07:11Z",
+ "generated_at": "2026-10-20T23:58:03Z",
  "source": "ESPN",
  "season": 2026,
  "season_label": "2026\u20132027",
@@ -20808,8 +20808,8 @@
    "comp": "bra2",
    "utc": "2026-10-20T22:30:00Z",
    "ts": 1792535400,
-   "status": "NS",
-   "status_long": "Not started",
+   "status": "2H",
+   "status_long": "Second half",
    "round": "",
    "home": "Londrina",
    "away": "Cuiab\u00e1",
