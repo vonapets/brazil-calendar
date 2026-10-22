@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T08:51:33Z",
+ "generated_at": "2026-10-22T15:31:24Z",
  "source": "ESPN",
  "season": 2026,
  "season_label": "2026\u20132027",
@@ -22824,6 +22824,26 @@
    "finished": false
   },
   {
+   "id": 401913961,
+   "comp": "sud",
+   "utc": "2026-11-21T20:00:00Z",
+   "ts": 1795291200,
+   "status": "NS",
+   "status_long": "Not started",
+   "round": "Final",
+   "home": "Atl\u00e9tico-MG",
+   "away": "Boca Juniors",
+   "hid": "7632",
+   "aid": "5",
+   "venue": "Metropolitano Roberto Mel\u00e9ndez",
+   "gh": null,
+   "ga": null,
+   "tbd": true,
+   "qual": false,
+   "disrupted": false,
+   "finished": false
+  },
+  {
    "id": 401841328,
    "comp": "bra1",
    "utc": "2026-11-28T20:00:00Z",
@@ -23846,7 +23866,7 @@
   "cdb": 103,
   "scb": 1,
   "lib": 65,
-  "sud": 70,
+  "sud": 71,
   "rec": 2,
   "fic": 0,
   "pau": 62,
