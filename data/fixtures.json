@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T00:03:38Z",
+ "generated_at": "2026-10-22T08:51:33Z",
  "source": "ESPN",
  "season": 2026,
  "season_label": "2026\u20132027",
@@ -20868,20 +20868,20 @@
    "comp": "lib",
    "utc": "2026-10-22T00:30:00Z",
    "ts": 1792629000,
-   "status": "NS",
-   "status_long": "Not started",
+   "status": "PEN",
+   "status_long": "Won on penalties",
    "round": "Semifinals",
    "home": "Palmeiras",
    "away": "Fluminense",
    "hid": "2029",
    "aid": "3445",
    "venue": "Allianz Parque",
-   "gh": null,
-   "ga": null,
+   "gh": 0,
+   "ga": 1,
    "tbd": false,
    "qual": false,
    "disrupted": false,
-   "finished": false
+   "finished": true
   },
   {
    "id": 401912521,
