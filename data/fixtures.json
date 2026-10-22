@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T20:19:31Z",
+ "generated_at": "2026-10-22T00:03:38Z",
  "source": "ESPN",
  "season": 2026,
  "season_label": "2026\u20132027",
@@ -20848,20 +20848,20 @@
    "comp": "sud",
    "utc": "2026-10-21T22:00:00Z",
    "ts": 1792620000,
-   "status": "NS",
-   "status_long": "Not started",
+   "status": "FT",
+   "status_long": "Full time",
    "round": "Semifinals",
    "home": "Montevideo City Torque",
    "away": "Atl\u00e9tico-MG",
    "hid": "19002",
    "aid": "7632",
    "venue": "Estadio Centenario",
-   "gh": null,
-   "ga": null,
+   "gh": 2,
+   "ga": 0,
    "tbd": false,
    "qual": false,
    "disrupted": false,
-   "finished": false
+   "finished": true
   },
   {
    "id": 401912520,
