@@ -1,5 +1,16 @@
 [
  {
+  "detected": "2026-10-23",
+  "kind": "moved",
+  "id": 401860424,
+  "comp": "bra2",
+  "home": "Vila Nova",
+  "away": "Crici\u00fama",
+  "from_utc": "2026-11-06T23:30:00Z",
+  "to_utc": "2026-11-07T23:00:00Z",
+  "round": ""
+ },
+ {
   "detected": "2026-10-19",
   "kind": "moved",
   "id": 401841294,
