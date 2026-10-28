@@ -1,5 +1,38 @@
 [
  {
+  "detected": "2026-10-28",
+  "kind": "moved",
+  "id": 401860429,
+  "comp": "bra2",
+  "home": "Cuiab\u00e1",
+  "away": "Juventude",
+  "from_utc": "2026-11-07T00:30:00Z",
+  "to_utc": "2026-11-07T23:00:00Z",
+  "round": ""
+ },
+ {
+  "detected": "2026-10-28",
+  "kind": "moved",
+  "id": 401860431,
+  "comp": "bra2",
+  "home": "Botafogo-SP",
+  "away": "Londrina",
+  "from_utc": "2026-11-06T22:30:00Z",
+  "to_utc": "2026-11-05T22:30:00Z",
+  "round": ""
+ },
+ {
+  "detected": "2026-10-28",
+  "kind": "moved",
+  "id": 401860416,
+  "comp": "bra2",
+  "home": "Vila Nova",
+  "away": "Juventude",
+  "from_utc": "2026-10-31T21:00:00Z",
+  "to_utc": "2026-10-31T20:30:00Z",
+  "round": ""
+ },
+ {
   "detected": "2026-10-23",
   "kind": "moved",
   "id": 401860424,
