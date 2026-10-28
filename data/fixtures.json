@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T20:52:04Z",
+ "generated_at": "2026-10-28T00:34:59Z",
  "source": "ESPN",
  "season": 2026,
  "season_label": "2026\u20132027",
@@ -21288,8 +21288,8 @@
    "comp": "bra2",
    "utc": "2026-10-27T23:00:00Z",
    "ts": 1793142000,
-   "status": "NS",
-   "status_long": "Not started",
+   "status": "2H",
+   "status_long": "Second half",
    "round": "",
    "home": "Cear\u00e1",
    "away": "Goi\u00e1s",
