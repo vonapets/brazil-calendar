@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T00:51:56Z",
+ "generated_at": "2026-10-31T09:54:06Z",
  "source": "ESPN",
  "season": 2026,
  "season_label": "2026\u20132027",
@@ -21488,20 +21488,20 @@
    "comp": "bra1",
    "utc": "2026-10-30T23:00:00Z",
    "ts": 1793401200,
-   "status": "2H",
-   "status_long": "Second half",
+   "status": "FT",
+   "status_long": "Full time",
    "round": "",
    "home": "Corinthians",
    "away": "Mirassol",
    "hid": "874",
    "aid": "9169",
    "venue": "Neo Qu\u00edmica Arena",
-   "gh": null,
-   "ga": null,
+   "gh": 2,
+   "ga": 0,
    "tbd": false,
    "qual": false,
    "disrupted": false,
-   "finished": false
+   "finished": true
   },
   {
    "id": 401841294,
@@ -23084,6 +23084,26 @@
    "finished": false
   },
   {
+   "id": 401932611,
+   "comp": "bra2",
+   "utc": "2026-11-28T20:00:00Z",
+   "ts": 1795896000,
+   "status": "NS",
+   "status_long": "Not started",
+   "round": "Promotion play-off",
+   "home": "TBD",
+   "away": "TBD",
+   "hid": null,
+   "aid": null,
+   "venue": null,
+   "gh": null,
+   "ga": null,
+   "tbd": true,
+   "qual": false,
+   "disrupted": false,
+   "finished": false
+  },
+  {
    "id": 401912519,
    "comp": "lib",
    "utc": "2026-11-28T20:00:00Z",
@@ -24126,7 +24146,7 @@
  ],
  "counts": {
   "bra1": 383,
-  "bra2": 384,
+  "bra2": 385,
   "cdb": 103,
   "scb": 1,
   "lib": 65,
