@@ -11,6 +11,17 @@
   "round": "Final"
  },
  {
+  "detected": "2026-11-01",
+  "kind": "moved",
+  "id": 401841175,
+  "comp": "bra1",
+  "home": "Chapecoense",
+  "away": "Vasco da Gama",
+  "from_utc": "2026-07-29T18:00:00Z",
+  "to_utc": "2026-11-14T23:30:00Z",
+  "round": ""
+ },
+ {
   "detected": "2026-10-30",
   "kind": "moved",
   "id": 401841319,
