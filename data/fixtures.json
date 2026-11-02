@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T11:33:33Z",
+ "generated_at": "2026-11-02T20:30:11Z",
  "source": "ESPN",
  "season": 2026,
  "season_label": "2026\u20132027",
@@ -21668,8 +21668,8 @@
    "comp": "bra2",
    "utc": "2026-11-02T19:00:00Z",
    "ts": 1793646000,
-   "status": "NS",
-   "status_long": "Not started",
+   "status": "2H",
+   "status_long": "Second half",
    "round": "",
    "home": "Fortaleza",
    "away": "Atl\u00e9tico Goianiense",
