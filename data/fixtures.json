@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T00:49:56Z",
+ "generated_at": "2026-11-02T11:33:33Z",
  "source": "ESPN",
  "season": 2026,
  "season_label": "2026\u20132027",
@@ -21648,20 +21648,20 @@
    "comp": "cdb",
    "utc": "2026-11-01T21:30:00Z",
    "ts": 1793568600,
-   "status": "2H",
-   "status_long": "Second half",
+   "status": "FT",
+   "status_long": "Full time",
    "round": "Semifinals 1st Leg",
    "home": "Gr\u00eamio",
    "away": "Atl\u00e9tico-MG",
    "hid": "6273",
    "aid": "7632",
    "venue": "Arena do Gr\u00eamio",
-   "gh": null,
-   "ga": null,
+   "gh": 2,
+   "ga": 0,
    "tbd": false,
    "qual": false,
    "disrupted": false,
-   "finished": false
+   "finished": true
   },
   {
    "id": 401860420,
