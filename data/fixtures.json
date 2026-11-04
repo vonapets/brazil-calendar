@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T01:28:25Z",
+ "generated_at": "2026-11-04T11:23:50Z",
  "source": "ESPN",
  "season": 2026,
  "season_label": "2026\u20132027",
@@ -21768,20 +21768,20 @@
    "comp": "bra1",
    "utc": "2026-11-04T00:30:00Z",
    "ts": 1793752200,
-   "status": "HT",
-   "status_long": "Half time",
+   "status": "FT",
+   "status_long": "Full time",
    "round": "",
    "home": "Internacional",
    "away": "Coritiba",
    "hid": "1936",
    "aid": "3456",
    "venue": "Estadio Beira-Rio",
-   "gh": null,
-   "ga": null,
+   "gh": 1,
+   "ga": 0,
    "tbd": false,
    "qual": false,
    "disrupted": false,
-   "finished": false
+   "finished": true
   },
   {
    "id": 401841306,
