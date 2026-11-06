@@ -1,5 +1,16 @@
 [
  {
+  "detected": "2026-11-06",
+  "kind": "moved",
+  "id": 401860435,
+  "comp": "bra2",
+  "home": "Londrina",
+  "away": "N\u00e1utico",
+  "from_utc": "2026-11-14T19:30:00Z",
+  "to_utc": "2026-11-11T22:00:00Z",
+  "round": ""
+ },
+ {
   "detected": "2026-11-01",
   "kind": "moved",
   "id": 401913961,

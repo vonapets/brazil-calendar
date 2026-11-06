@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T11:20:21Z",
+ "generated_at": "2026-11-06T17:39:59Z",
  "source": "ESPN",
  "season": 2026,
  "season_label": "2026\u20132027",
@@ -22164,6 +22164,26 @@
    "finished": false
   },
   {
+   "id": 401860435,
+   "comp": "bra2",
+   "utc": "2026-11-11T22:00:00Z",
+   "ts": 1794434400,
+   "status": "NS",
+   "status_long": "Not started",
+   "round": "",
+   "home": "Londrina",
+   "away": "N\u00e1utico",
+   "hid": "17333",
+   "aid": "7633",
+   "venue": "Estadio VGD",
+   "gh": null,
+   "ga": null,
+   "tbd": false,
+   "qual": false,
+   "disrupted": false,
+   "finished": false
+  },
+  {
    "id": 401860432,
    "comp": "bra2",
    "utc": "2026-11-14T19:30:00Z",
@@ -22276,26 +22296,6 @@
    "hid": "6270",
    "aid": "10281",
    "venue": "Alfredo Jaconi",
-   "gh": null,
-   "ga": null,
-   "tbd": false,
-   "qual": false,
-   "disrupted": false,
-   "finished": false
-  },
-  {
-   "id": 401860435,
-   "comp": "bra2",
-   "utc": "2026-11-14T19:30:00Z",
-   "ts": 1794684600,
-   "status": "NS",
-   "status_long": "Not started",
-   "round": "",
-   "home": "Londrina",
-   "away": "N\u00e1utico",
-   "hid": "17333",
-   "aid": "7633",
-   "venue": "Estadio VGD",
    "gh": null,
    "ga": null,
    "tbd": false,
@@ -23392,6 +23392,17 @@
   }
  ],
  "changes": [
+  {
+   "detected": "2026-11-06",
+   "kind": "moved",
+   "id": 401860435,
+   "comp": "bra2",
+   "home": "Londrina",
+   "away": "N\u00e1utico",
+   "from_utc": "2026-11-14T19:30:00Z",
+   "to_utc": "2026-11-11T22:00:00Z",
+   "round": ""
+  },
   {
    "detected": "2026-11-01",
    "kind": "moved",
