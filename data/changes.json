@@ -1,5 +1,16 @@
 [
  {
+  "detected": "2026-11-10",
+  "kind": "moved",
+  "id": 401860434,
+  "comp": "bra2",
+  "home": "Ponte Preta",
+  "away": "Oper\u00e1rio PR",
+  "from_utc": "2026-11-14T19:30:00Z",
+  "to_utc": "2026-11-12T22:00:00Z",
+  "round": ""
+ },
+ {
   "detected": "2026-11-08",
   "kind": "moved",
   "id": 401841338,
