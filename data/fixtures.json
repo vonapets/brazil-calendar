@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T18:01:32Z",
+ "generated_at": "2026-11-11T22:56:55Z",
  "source": "ESPN",
  "season": 2026,
  "season_label": "2026\u20132027",
@@ -22168,8 +22168,8 @@
    "comp": "bra2",
    "utc": "2026-11-11T22:00:00Z",
    "ts": 1794434400,
-   "status": "NS",
-   "status_long": "Not started",
+   "status": "HT",
+   "status_long": "Half time",
    "round": "",
    "home": "Londrina",
    "away": "N\u00e1utico",
