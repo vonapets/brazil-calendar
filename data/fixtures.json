@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T22:56:55Z",
+ "generated_at": "2026-11-12T02:20:08Z",
  "source": "ESPN",
  "season": 2026,
  "season_label": "2026\u20132027",
@@ -22168,20 +22168,20 @@
    "comp": "bra2",
    "utc": "2026-11-11T22:00:00Z",
    "ts": 1794434400,
-   "status": "HT",
-   "status_long": "Half time",
+   "status": "FT",
+   "status_long": "Full time",
    "round": "",
    "home": "Londrina",
    "away": "N\u00e1utico",
    "hid": "17333",
    "aid": "7633",
    "venue": "Estadio VGD",
-   "gh": null,
-   "ga": null,
+   "gh": 2,
+   "ga": 1,
    "tbd": false,
    "qual": false,
    "disrupted": false,
-   "finished": false
+   "finished": true
   },
   {
    "id": 401860434,
