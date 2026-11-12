@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T18:32:17Z",
+ "generated_at": "2026-11-12T22:25:20Z",
  "source": "ESPN",
  "season": 2026,
  "season_label": "2026\u20132027",
@@ -22188,8 +22188,8 @@
    "comp": "bra2",
    "utc": "2026-11-12T22:00:00Z",
    "ts": 1794520800,
-   "status": "NS",
-   "status_long": "Not started",
+   "status": "1H",
+   "status_long": "First half",
    "round": "",
    "home": "Ponte Preta",
    "away": "Oper\u00e1rio PR",
