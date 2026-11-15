@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T01:07:42Z",
+ "generated_at": "2026-11-15T11:23:09Z",
  "source": "ESPN",
  "season": 2026,
  "season_label": "2026\u20132027",
@@ -22388,20 +22388,20 @@
    "comp": "bra1",
    "utc": "2026-11-14T23:30:00Z",
    "ts": 1794699000,
-   "status": "LIVE",
-   "status_long": "In progress",
+   "status": "FT",
+   "status_long": "Full time",
    "round": "",
    "home": "Chapecoense",
    "away": "Vasco da Gama",
    "hid": "9318",
    "aid": "3454",
    "venue": "Arena Cond\u00e1",
-   "gh": null,
-   "ga": null,
+   "gh": 0,
+   "ga": 2,
    "tbd": false,
    "qual": false,
    "disrupted": false,
-   "finished": false
+   "finished": true
   },
   {
    "id": 401841315,
