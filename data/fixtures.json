@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T18:59:50Z",
+ "generated_at": "2026-11-18T23:02:39Z",
  "source": "ESPN",
  "season": 2026,
  "season_label": "2026\u20132027",
@@ -22408,8 +22408,8 @@
    "comp": "bra1",
    "utc": "2026-11-18T22:30:00Z",
    "ts": 1795041000,
-   "status": "NS",
-   "status_long": "Not started",
+   "status": "1H",
+   "status_long": "First half",
    "round": "",
    "home": "Coritiba",
    "away": "Santos",
