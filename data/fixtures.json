@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T01:24:52Z",
+ "generated_at": "2026-11-22T11:50:26Z",
  "source": "ESPN",
  "season": 2026,
  "season_label": "2026\u20132027",
@@ -22648,20 +22648,20 @@
    "comp": "bra1",
    "utc": "2026-11-22T00:00:00Z",
    "ts": 1795305600,
-   "status": "LIVE",
-   "status_long": "In progress",
+   "status": "FT",
+   "status_long": "Full time",
    "round": "",
    "home": "Chapecoense",
    "away": "Cruzeiro",
    "hid": "9318",
    "aid": "2022",
    "venue": "Arena Cond\u00e1",
-   "gh": null,
-   "ga": null,
+   "gh": 1,
+   "ga": 2,
    "tbd": false,
    "qual": false,
    "disrupted": false,
-   "finished": false
+   "finished": true
   },
   {
    "id": 401841318,
