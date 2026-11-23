@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T01:48:57Z",
+ "generated_at": "2026-11-23T13:28:47Z",
  "source": "ESPN",
  "season": 2026,
  "season_label": "2026\u20132027",
@@ -22924,26 +22924,6 @@
    "finished": false
   },
   {
-   "id": 401932611,
-   "comp": "bra2",
-   "utc": "2026-11-28T20:00:00Z",
-   "ts": 1795896000,
-   "status": "NS",
-   "status_long": "Not started",
-   "round": "Promotion play-off",
-   "home": "TBD",
-   "away": "TBD",
-   "hid": null,
-   "aid": null,
-   "venue": null,
-   "gh": null,
-   "ga": null,
-   "tbd": true,
-   "qual": false,
-   "disrupted": false,
-   "finished": false
-  },
-  {
    "id": 401912519,
    "comp": "lib",
    "utc": "2026-11-28T20:00:00Z",
@@ -23338,7 +23318,7 @@
    "venue": "Arena BRB Man\u00e9 Garrincha",
    "gh": null,
    "ga": null,
-   "tbd": true,
+   "tbd": false,
    "qual": false,
    "disrupted": false,
    "finished": false
@@ -24785,7 +24765,7 @@
  ],
  "counts": {
   "bra1": 383,
-  "bra2": 385,
+  "bra2": 384,
   "cdb": 103,
   "scb": 1,
   "lib": 65,
