@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T04:17:14Z",
+ "generated_at": "2026-11-25T13:21:22Z",
  "source": "ESPN",
  "season": 2026,
  "season_label": "2026\u20132027",
@@ -23306,8 +23306,8 @@
   {
    "id": 401913106,
    "comp": "cdb",
-   "utc": "2026-12-06T20:00:00Z",
-   "ts": 1796587200,
+   "utc": "2026-12-06T19:00:00Z",
+   "ts": 1796583600,
    "status": "NS",
    "status_long": "Not started",
    "round": "Final",
@@ -23692,6 +23692,17 @@
   }
  ],
  "changes": [
+  {
+   "detected": "2026-11-25",
+   "kind": "moved",
+   "id": 401913106,
+   "comp": "cdb",
+   "home": "Gr\u00eamio",
+   "away": "Palmeiras",
+   "from_utc": "2026-12-06T20:00:00Z",
+   "to_utc": "2026-12-06T19:00:00Z",
+   "round": "Final"
+  },
   {
    "detected": "2026-11-16",
    "kind": "moved",

@@ -1,5 +1,16 @@
 [
  {
+  "detected": "2026-11-25",
+  "kind": "moved",
+  "id": 401913106,
+  "comp": "cdb",
+  "home": "Gr\u00eamio",
+  "away": "Palmeiras",
+  "from_utc": "2026-12-06T20:00:00Z",
+  "to_utc": "2026-12-06T19:00:00Z",
+  "round": "Final"
+ },
+ {
   "detected": "2026-11-16",
   "kind": "moved",
   "id": 401912709,
