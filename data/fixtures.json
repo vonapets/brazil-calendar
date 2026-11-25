@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T20:47:57Z",
+ "generated_at": "2026-11-25T01:00:30Z",
  "source": "ESPN",
  "season": 2026,
  "season_label": "2026\u20132027",
@@ -22828,20 +22828,20 @@
    "comp": "bra1",
    "utc": "2026-11-24T21:00:00Z",
    "ts": 1795554000,
-   "status": "NS",
-   "status_long": "Not started",
+   "status": "FT",
+   "status_long": "Full time",
    "round": "",
    "home": "Chapecoense",
    "away": "Palmeiras",
    "hid": "9318",
    "aid": "2029",
    "venue": "Arena Cond\u00e1",
-   "gh": null,
-   "ga": null,
+   "gh": 3,
+   "ga": 0,
    "tbd": false,
    "qual": false,
    "disrupted": false,
-   "finished": false
+   "finished": true
   },
   {
    "id": 401841319,
