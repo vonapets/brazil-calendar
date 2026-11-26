@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T00:37:05Z",
+ "generated_at": "2026-11-26T03:38:31Z",
  "source": "ESPN",
  "season": 2026,
  "season_label": "2026\u20132027",
@@ -22848,20 +22848,20 @@
    "comp": "bra1",
    "utc": "2026-11-25T23:00:00Z",
    "ts": 1795647600,
-   "status": "2H",
-   "status_long": "Second half",
+   "status": "FT",
+   "status_long": "Full time",
    "round": "",
    "home": "Atl\u00e9tico-MG",
    "away": "Corinthians",
    "hid": "7632",
    "aid": "874",
    "venue": "Arena MRV",
-   "gh": null,
-   "ga": null,
+   "gh": 1,
+   "ga": 1,
    "tbd": false,
    "qual": false,
    "disrupted": false,
-   "finished": false
+   "finished": true
   },
   {
    "id": 401841329,
