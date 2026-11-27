@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T00:45:45Z",
+ "generated_at": "2026-11-27T03:42:18Z",
  "source": "ESPN",
  "season": 2026,
  "season_label": "2026\u20132027",
@@ -22868,20 +22868,20 @@
    "comp": "bra1",
    "utc": "2026-11-26T23:00:00Z",
    "ts": 1795734000,
-   "status": "2H",
-   "status_long": "Second half",
+   "status": "FT",
+   "status_long": "Full time",
    "round": "",
    "home": "S\u00e3o Paulo",
    "away": "Remo",
    "hid": "2026",
    "aid": "4936",
    "venue": "Est\u00e1dio C\u00edcero Pompeu de Toledo",
-   "gh": null,
-   "ga": null,
+   "gh": 3,
+   "ga": 1,
    "tbd": false,
    "qual": false,
    "disrupted": false,
-   "finished": false
+   "finished": true
   },
   {
    "id": 401841337,
